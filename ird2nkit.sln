@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ird2nkit", "ird2nkit.csproj", "{2E282947-970F-4EB8-980C-60052ED3B027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E282947-970F-4EB8-980C-60052ED3B027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E282947-970F-4EB8-980C-60052ED3B027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E282947-970F-4EB8-980C-60052ED3B027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E282947-970F-4EB8-980C-60052ED3B027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C8D5CF0-D5C1-4FD4-B0F8-7A1485D9C9B5}
+	EndGlobalSection
+EndGlobal
